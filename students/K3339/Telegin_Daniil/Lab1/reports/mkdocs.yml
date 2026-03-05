@@ -1,4 +1,5 @@
 site_name: ЛР1 — Телегин Даниил
+site_url: https://quwiier.github.io/TonikX-ITMO_ICT_WebDevelopment_2025-2026
 theme:
   name: material
 
@@ -10,4 +11,5 @@ nav:
       - Задание 2: task2.md
       - Задание 3: task3.md
       - Задание 4: task4.md
+
       - Задание 5: task5.md
