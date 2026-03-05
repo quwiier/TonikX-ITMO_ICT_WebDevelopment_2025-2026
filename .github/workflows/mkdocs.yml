@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - lab1
+    workflow_dispath:
 
 jobs:
   deploy:
